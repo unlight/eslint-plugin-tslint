@@ -1,3 +1,4 @@
+# Deprecated in favor of https://github.com/JamesHenry/eslint-plugin-tslint
 # eslint-plugin-tslint2
 ESLint plugin wraps a TSLint configuration and lints the whole source using TSLint.  
 Fork of [eslint-plugin-tslint](https://github.com/JamesHenry/eslint-plugin-tslint), the main difference are:  
